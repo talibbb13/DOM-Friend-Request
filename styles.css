@@ -47,7 +47,8 @@
 
 #btn-container {
     display: flex;
-    justify-content: center
+    justify-content: center;
+   cursor: pointer;
 }
 
 #card #add {
